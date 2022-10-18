@@ -7,3 +7,6 @@ print(k)
 
 d = "abc"
 print(type(d))
+
+list = [1, 2.5, True, "Str in a list"]
+print(type(list))
